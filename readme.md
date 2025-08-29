@@ -17,4 +17,4 @@
     - Energy vs dancability = 0.24
     - Acousticness vs dancability = -0.24
     - This is as per out heatmap and we can conclude that energeti songs are more danceable than acoustic songs which is trivial.
-    ![[plots/correlation_matrix.png]]
+    ![Heatmap](plots/heatmap.png)
